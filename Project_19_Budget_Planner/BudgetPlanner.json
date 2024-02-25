@@ -1,0 +1,29 @@
+{
+    "items": [
+      {
+        "id": "1234567890",
+        "name": "",
+        "amount": 5000
+      },
+      {
+        "id": "1",
+        "name": "Chicken Meal",
+        "amount": 100
+      },
+      {
+        "id": "2",
+        "name": "College Fee",
+        "amount": 500
+      },
+      {
+        "id": "3",
+        "name": "Dress",
+        "amount": 1500
+      },
+      {
+        "id": "4",
+        "name": "Savings",
+        "amount": 500
+      }
+    ]
+  }

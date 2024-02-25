@@ -1,0 +1,39 @@
+{
+    "history": [
+      {
+        "id": "0",
+        "name": "",
+        "amount": 3780
+      },
+      {
+        "id": "1",
+        "name": "",
+        "amount": 5000
+      },
+      {
+        "id": "2",
+        "name": "",
+        "amount": -11220
+      },
+      {
+        "id": "a7kiuwfk2",
+        "name": "Grocery",
+        "amount": -500
+      },
+      {
+        "id": "y6avkst8f",
+        "name": "Chciken",
+        "amount": -220
+      },
+      {
+        "id": "alopxy5n4",
+        "name": "Salary",
+        "amount": 5000
+      },
+      {
+        "id": "89bzx7uf7",
+        "name": "Furniture",
+        "amount": -10500
+      }
+    ]
+  }

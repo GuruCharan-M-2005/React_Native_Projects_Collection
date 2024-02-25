@@ -1,0 +1,77 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Scrambled Eggs",
+        "ingredients": "Eggs, Salt, Black pepper, Butter",
+        "description": "Scrambled Eggs are a classic breakfast dish made by whisking eggs with salt and pepper, then cooking them in a skillet with butter until fluffy and cooked through."
+      },
+      {
+        "id": 2,
+        "name": "Avocado Toast",
+        "ingredients": "Bread, Avocado, Salt, Black pepper, Red pepper flakes",
+        "description": "Avocado Toast is a simple yet delicious breakfast or snack made by toasting bread, spreading mashed avocado on top, and seasoning with salt, black pepper, and red pepper flakes."
+      },
+      {
+        "id": 3,
+        "name": "Caprese Salad",
+        "ingredients": "Tomatoes, Fresh mozzarella cheese, Fresh basil leaves, Extra virgin olive oil, Balsamic vinegar, Salt, Black pepper",
+        "description": "Caprese Salad is a light and refreshing Italian salad made with ripe tomatoes, fresh mozzarella cheese, and basil leaves, drizzled with extra virgin olive oil and balsamic vinegar, and seasoned with salt and black pepper."
+      },
+      {
+        "id": 4,
+        "name": "Grilled Cheese Sandwich",
+        "ingredients": "Bread, Cheese, Butter",
+        "description": "Grilled Cheese Sandwich is a comforting and simple sandwich made by sandwiching cheese between two slices of bread, then grilling in a skillet with butter until golden and crispy."
+      },
+      {
+        "id": 5,
+        "name": "Pasta with Marinara Sauce",
+        "ingredients": "Pasta, Tomato sauce, Garlic, Olive oil, Basil, Salt, Black pepper",
+        "description": "Pasta with Marinara Sauce is a quick and easy pasta dish made by cooking pasta until al dente, then tossing with a flavorful marinara sauce made from tomatoes, garlic, olive oil, basil, salt, and black pepper."
+      },
+      {
+        "id": 6,
+        "name": "Fruit Salad",
+        "ingredients": "Assorted fruits (such as strawberries, grapes, pineapple, kiwi, and oranges)",
+        "description": "Fruit Salad is a refreshing and colorful salad made with a variety of fresh fruits, such as strawberries, grapes, pineapple, kiwi, and oranges, mixed together in a bowl."
+      },
+      {
+        "id": 7,
+        "name": "Vegetable Omelette",
+        "ingredients": "Eggs, Bell peppers, Onion, Tomato, Spinach, Salt, Black pepper, Butter",
+        "description": "Vegetable Omelette is a nutritious and filling breakfast dish made by whisking eggs with chopped vegetables such as bell peppers, onion, tomato, and spinach, then cooking in a skillet with butter until set and golden brown."
+      },
+      {
+        "id": 8,
+        "name": "Chicken Caesar Salad",
+        "ingredients": "Romaine lettuce, Grilled chicken breast, Croutons, Parmesan cheese, Caesar dressing",
+        "description": "Chicken Caesar Salad is a hearty salad made with crisp romaine lettuce, grilled chicken breast, crunchy croutons, shaved Parmesan cheese, and tangy Caesar dressing."
+      },
+      {
+        "id": 9,
+        "name": "Chocolate Chip Cookies",
+        "ingredients": "All-purpose flour, Butter, Brown sugar, White sugar, Eggs, Vanilla extract, Baking soda, Salt, Chocolate chips",
+        "description": "Chocolate Chip Cookies are classic homemade cookies made with a chewy and buttery dough loaded with chocolate chips, perfect for satisfying your sweet tooth."
+      },
+      {
+        "id": 10,
+        "name": "Tomato Soup",
+        "ingredients": "Tomatoes, Onion, Garlic, Vegetable broth, Heavy cream, Olive oil, Salt, Black pepper, Basil",
+        "description": "Tomato Soup is a comforting and flavorful soup made with ripe tomatoes, onion, garlic, vegetable broth, heavy cream, and fresh basil, seasoned with salt and black pepper."
+      },
+      {
+        "id": 11,
+        "name": "Banana Bread",
+        "ingredients": "Ripe bananas, All-purpose flour, Butter, Brown sugar, Eggs, Vanilla extract, Baking soda, Salt, Walnuts (optional)",
+        "description": "Banana Bread is a moist and delicious quick bread made with ripe bananas, butter, brown sugar, eggs, vanilla extract, and chopped walnuts, perfect for breakfast or snacking."
+      },
+      {
+        "id": 12,
+        "name": "Caesar Salad",
+        "ingredients": "Romaine lettuce, Croutons, Parmesan cheese, Caesar dressing",
+        "description": "Caesar Salad is a classic salad made with crisp romaine lettuce, crunchy croutons, shaved Parmesan cheese, and tangy Caesar dressing, perfect as a side dish or light meal."
+      }
+    ]
+  }
+  
