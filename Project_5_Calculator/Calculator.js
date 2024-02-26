@@ -42,7 +42,41 @@ function Calculator() {
           <Text>/</Text>
         </TouchableOpacity>
 
-        {/* Add other buttons similarly */}
+        <TouchableOpacity style={styles.button} onPress={() => handleClick('4')}>
+          <Text>4</Text>
+        </TouchableOpacity>
+        <TouchableOpacity style={styles.button} onPress={() => handleClick('5')}>
+          <Text>5</Text>
+        </TouchableOpacity>
+        <TouchableOpacity style={styles.button} onPress={() => handleClick('6')}>
+          <Text>6</Text>
+        </TouchableOpacity>
+        <TouchableOpacity style={[styles.button, styles.operator]} onPress={() => handleClick('*')}>
+          <Text>*</Text>
+        </TouchableOpacity>
+
+        <TouchableOpacity style={styles.button} onPress={() => handleClick('1')}>
+          <Text>1</Text>
+        </TouchableOpacity>
+        <TouchableOpacity style={styles.button} onPress={() => handleClick('2')}>
+          <Text>2</Text>
+        </TouchableOpacity>
+        <TouchableOpacity style={styles.button} onPress={() => handleClick('3')}>
+          <Text>3</Text>
+        </TouchableOpacity>
+        <TouchableOpacity style={[styles.button, styles.operator]} onPress={() => handleClick('-')}>
+          <Text>-</Text>
+        </TouchableOpacity>
+
+        <TouchableOpacity style={styles.button} onPress={() => handleClick('0')}>
+          <Text>0</Text>
+        </TouchableOpacity>
+        <TouchableOpacity style={styles.button} onPress={() => handleClick('.')}>
+          <Text>.</Text>
+        </TouchableOpacity>
+        <TouchableOpacity style={[styles.button, styles.operator]} onPress={() => handleClick('=')}>
+          <Text>=</Text>
+        </TouchableOpacity>
 
         <TouchableOpacity style={[styles.button, styles.clear]} onPress={() => handleClick('C')}>
           <Text>C</Text>
@@ -57,6 +91,8 @@ function Calculator() {
 
 const styles = StyleSheet.create({
   calculator: {
+    marginTop: 50,
+    marginLeft: 20,
     width: 250,
     margin: 'auto',
     borderWidth: 1,

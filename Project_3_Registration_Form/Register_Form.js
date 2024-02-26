@@ -101,6 +101,7 @@ export default function RegisterForm() {
 const styles = StyleSheet.create({
   container: {
     paddingTop: 20,
+    marginTop:45,
     alignItems: 'center',
   },
   input: {
@@ -123,6 +124,6 @@ const styles = StyleSheet.create({
   buttonText: {
     color: 'white',
     fontSize: 18,
-    fontFamily: 'cursive',
+    // fontFamily: 'cursive',
   },
 });

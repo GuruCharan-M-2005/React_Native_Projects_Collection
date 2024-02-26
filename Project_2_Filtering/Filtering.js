@@ -22,7 +22,7 @@ export default function Filtering() {
                 onChangeText={(text) => setSearchValue(text)}
                 placeholder="Search fruits..."
             />
-            <FlatList
+             <FlatList
                 data={filterFruits}
                 renderItem={({ item }) => (
                     <TouchableOpacity
@@ -34,7 +34,7 @@ export default function Filtering() {
                 )}
                 keyExtractor={(item, index) => index.toString()}
                 numColumns={2}
-            />
+            /> 
         </View>
     );
 }
