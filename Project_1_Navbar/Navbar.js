@@ -41,7 +41,7 @@ const Navbar = () => {
         </TouchableOpacity>
         <Text style={styles.content}>Main Content Goes Here</Text>
       </View>
-    </DrawerLayoutAndroid>
+     </DrawerLayoutAndroid>
   );
 };
 
@@ -84,3 +84,27 @@ const styles = StyleSheet.create({
 });
 
 export default Navbar;
+
+
+
+// import 'react-native-gesture-handler';
+// import React from 'react';
+// import { NavigationContainer } from '@react-navigation/native';
+// import { createDrawerNavigator } from '@react-navigation/drawer';
+// import HomeScreen from './HomeScreen';
+// import AboutScreen from './AboutScreen';
+// import ContactScreen from './ContactScreen';
+
+// const Drawer = createDrawerNavigator();
+
+// export default function Navbar() {
+//   return (
+//     <NavigationContainer>
+//       <Drawer.Navigator initialRouteName="Home">
+//         <Drawer.Screen name="Home" component={HomeScreen} />
+//         <Drawer.Screen name="About" component={AboutScreen} />
+//         <Drawer.Screen name="Contact" component={ContactScreen} />
+//       </Drawer.Navigator>
+//     </NavigationContainer>
+//   );
+// }
