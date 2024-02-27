@@ -47,6 +47,7 @@ export default function Temperature() {
 
 const styles = StyleSheet.create({
   container: {
+    marginTop:100,
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',

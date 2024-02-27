@@ -34,6 +34,7 @@ const QR_Code = () => {
 
 const styles = StyleSheet.create({
   appContainer: {
+    marginTop:100,
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',

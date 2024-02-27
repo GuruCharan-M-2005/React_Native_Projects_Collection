@@ -111,6 +111,7 @@ const styles = StyleSheet.create({
   scoreText: {
     fontSize: 30,
     fontWeight: '600',
+    color:'black'
   },
   resetButton: {
     marginTop: 20,
